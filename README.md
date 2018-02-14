@@ -5,6 +5,9 @@ Hello World
 
 畫面包含一串文字及一個按鈕，按下按鈕後，彈出一個訊息視窗。
 
+> 參考教學 
+> http://slides.com/shinjia/ios-git-helloworldswift/fullscreen?token=v23Ondnk
+
 ## 程式編寫順序
 
 1. 在 Main.storyboard 中建立畫面
